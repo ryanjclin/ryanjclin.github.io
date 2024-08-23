@@ -3,11 +3,11 @@ title: "LLM-augmented Preference Learning from Natural Language"
 collection: publications
 category: workshops
 permalink: /publication/LLMPL
-excerpt: 'The study focused on using large language models (LLMs) to tackle the scarcity of preference data. By generating preference data and testing various LLMs, the research identified optimal prompts to enhance understanding of preferences in texts. LLama2 was used to condense extensive text, emphasizing preference detection, while BERT’s output, guided by instructive sentences, improved classification accuracy. Techniques like masking and segment embedding were also employed to aid in entity comparison.'
+excerpt: 'test'
 date: 2024-07-11
 venue: '2024 Economics and Computation workshop'
 paperurl: 'https://arxiv.org/pdf/2310.08523'
-citation: 'Kang I, Ruan S, Ho T, Lin JC, Mohsin F, Seneviratne O, Xia L. LLM-augmented Preference Learning from Natural Language. arXiv preprint arXiv:2310.08523. 2023 Oct 12.'
+citation: 'test'
 ---
 
-The study focused on using large language models (LLMs) to tackle the scarcity of preference data. By generating preference data and testing various LLMs, the research identified optimal prompts to enhance understanding of preferences in texts. LLama2 was used to condense extensive text, emphasizing preference detection, while BERT’s output, guided by instructive sentences, improved classification accuracy. Techniques like masking and segment embedding were also employed to aid in entity comparison.
+test
