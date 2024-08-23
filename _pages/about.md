@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning (ML) researcher specializing in advanced data analysis, machine/deep learning modeling, and the application of statistical methods to solve complex problems. 
+I am a Machine Learning (ML) graduate researcher, supervised by [Prof. Mohammad Mohammadi Amiri](https://mmamiri.github.io/).
 
 My expertise encompasses Natural Language Processing (NLP), Large Language Models (LLM), data evaluation, Generative Adversarial Networks (GAN), feature engineering, and web development.
 
