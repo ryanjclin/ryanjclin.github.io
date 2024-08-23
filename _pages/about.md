@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Machine Learning (ML) graduate researcher at Rensselaer Polytechnic Institute (RPI), supervised by [Prof. Mohammad Mohammadi Amiri](https://mmamiri.github.io/).
 
-My expertise encompasses Natural Language Processing (NLP), Large Language Models (LLM), data evaluation, Generative Adversarial Networks (GAN), feature engineering, and web development.
+My expertise encompasses Natural Language Processing (NLP), Large Language Models (LLM), data evaluation, Generative Adversarial Networks (GAN), and feature engineering.
 
 With a strong foundation in research, my academic journey at Tsinghua University focused on health management and data generation. My professional experience includes internships at Didi Chuxing and GliaCloud, where I honed my skills in translating research into practical, customer-centric products.
 
