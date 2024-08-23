@@ -1,6 +1,7 @@
 ---
 title: "LLM-augmented Preference Learning from Natural Language"
 collection: publications
+category: manuscripts
 permalink: /publication/LLM_preference_learning
 excerpt: 'The study focused on preference learning using large language models (LLMs) to address the issue of scarce preference data. Preference data was generated using LLMs, and various models were tested to identify optimal prompts that enable the LLMs to effectively comprehend preferences expressed in texts. The research skillfully condensed extensive text using LLama2, with a focus on preference identification to improve detection. Additionally, BERT’s output was utilized for precise preference classification, guided by instructive sentences to enhance performance. Techniques such as masking and segment embedding were implemented to facilitate entity comparison'
 date: 2024-07-11
