@@ -1,0 +1,13 @@
+---
+title: "Data Augmentation for Industrial Multivariate Time Series via a Spatial and Frequency Domain Knowledge GAN"
+collection: publications
+category: conferences
+permalink: /publication/SFKGAN
+excerpt: 'The study utilized an AutoEncoder to reduce the correlation between variables, enabling the selection of representative variables for examining mutual information among those with a correlation value exceeding 0.7. Additionally, wavelet decomposition was employed to transform the data from the time domain to the frequency domain, facilitating the extraction of the variance component. For evaluation, the GAN-TEST and maximum mean discrepancy (MMD) metrics were used, demonstrating that the difference between the original and generated data in MMD was below 0.1, with an accuracy difference in GAN-TEST of less than 10%.'
+date: 2022-08-10
+venue: '2022 IEEE International Symposium on Advanced Control of Industrial Processes (AdCONIP)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9894177?casa_token=n9_MCVv1n6YAAAAA:O6qPEpSXypaUuZZLLGKHB_rH2Um33O75BIooa66ZrIaf8L-tZMLb5uThZ_DOECf7t1JFdcA'
+citation: 'J. C. Lin and F. Yang, "Data Augmentation for Industrial Multivariate Time Series via a Spatial and Frequency Domain Knowledge GAN," 2022 IEEE International Symposium on Advanced Control of Industrial Processes (AdCONIP), Vancouver, BC, Canada, 2022, pp. 244-249, doi: 10.1109/AdCONIP55568.2022.9894177.'
+---
+
+The study utilized an AutoEncoder to reduce the correlation between variables, enabling the selection of representative variables for examining mutual information among those with a correlation value exceeding 0.7. Additionally, wavelet decomposition was employed to transform the data from the time domain to the frequency domain, facilitating the extraction of the variance component. For evaluation, the GAN-TEST and maximum mean discrepancy (MMD) metrics were used, demonstrating that the difference between the original and generated data in MMD was below 0.1, with an accuracy difference in GAN-TEST of less than 10%.
