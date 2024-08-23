@@ -11,7 +11,7 @@ I am a Machine Learning (ML) graduate researcher at Rensselaer Polytechnic Insti
 
 My expertise encompasses Natural Language Processing (NLP), Large Language Models (LLM), data evaluation, Generative Adversarial Networks (GAN), and feature engineering.
 
-With a strong foundation in research, my academic journey at Tsinghua University focused on health management and data generation. My professional experience includes internships at Didi Chuxing and GliaCloud, where I honed my skills in translating research into practical, customer-centric products.
+With a strong foundation in research, my academic journey at Tsinghua University focused on complex industrial system health management and industrial time series synthetic data generation. My professional experience includes internships at Didi Chuxing and GliaCloud, where I honed my skills in translating research into practical, customer-centric products.
 
 Currently pursuing further ML research at RPI, my work centers on LLMs, with a particular emphasis on the intersection of LLM technology and data evaluation. My research aims to enhance the value and human alignment of LLM outputs.
 
