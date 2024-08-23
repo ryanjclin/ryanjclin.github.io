@@ -7,7 +7,7 @@ excerpt: 'The study focused on using large language models (LLMs) to tackle the 
 date: 2024-07-11
 venue: '2024 Economics and Computation workshop'
 paperurl: 'https://arxiv.org/pdf/2310.08523'
-citation: 'test'
+citation: 'test2'
 ---
 
 The study focused on using large language models (LLMs) to tackle the scarcity of preference data. By generating preference data and testing various LLMs, the research identified optimal prompts to enhance understanding of preferences in texts. LLama2 was used to condense extensive text, emphasizing preference detection, while BERT’s output, guided by instructive sentences, improved classification accuracy. Techniques like masking and segment embedding were also employed to aid in entity comparison.
