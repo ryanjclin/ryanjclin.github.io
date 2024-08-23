@@ -1,0 +1,13 @@
+---
+title: "Generating Election Data Using Deep Generative Models"
+collection: publications
+category: workshops
+permalink: /publication/ElectionGAN
+excerpt: 'The study involved generating election data using deep generative models by utilizing strict order complete (SOC) election data, which contains comprehensive information about elections. The SOC election data was converted into images to account for the relationships between the rankings of alternatives. A conditional Deep Convolutional GAN (cDCGAN) was employed for learning, and an edge-trimming penalty was proposed to prevent overfitting or underfitting. Additionally, the quality of the generated data was assessed using an Auto-Encoder reconstruction error method, and a memorization metric was applied to evaluate the occurrence of overfitting'
+date: 2023-02-14
+venue: 'AI4SG workshop at AAAI-23'
+paperurl: 'https://amulyayadav.github.io/AI4SG2023/images/7.pdf'
+citation: 'Lin, Jui Chien, et al. "Generating Election Data Using Deep Generative Models."'
+---
+
+The study involved generating election data using deep generative models by utilizing strict order complete (SOC) election data, which contains comprehensive information about elections. The SOC election data was converted into images to account for the relationships between the rankings of alternatives. A conditional Deep Convolutional GAN (cDCGAN) was employed for learning, and an edge-trimming penalty was proposed to prevent overfitting or underfitting. Additionally, the quality of the generated data was assessed using an Auto-Encoder reconstruction error method, and a memorization metric was applied to evaluate the occurrence of overfitting
