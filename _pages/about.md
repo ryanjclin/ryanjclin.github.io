@@ -7,15 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning (ML) graduate researcher at Rensselaer Polytechnic Institute (RPI), supervised by [Prof. Mohammad Mohammadi Amiri](https://mmamiri.github.io/).
+I am a PhD student in Computer Science at Rensselaer Polytechnic Institute (RPI), advised by [Prof. Oshani Seneviratne](https://oshani.info/). My research interests include data evaluation, knowledge graphs (KGs), large language models (LLMs), and the integration of KGs with LLMs to build more explainable and transparent AI systems with stronger reasoning capabilities.
 
-My expertise encompasses Natural Language Processing (NLP), Large Language Models (LLM), data evaluation, Generative Adversarial Networks (GAN), and feature engineering.
-
-With a strong foundation in research, my academic journey at Tsinghua University focused on complex industrial system health management and industrial time series synthetic data generation. My professional experience includes internships at Didi Chuxing and GliaCloud, where I honed my skills in translating research into practical, customer-centric products.
-
-Currently pursuing further ML research at RPI, my work centers on LLMs, with a particular emphasis on the intersection of LLM technology and data evaluation. My research aims to enhance the value and human alignment of LLM outputs.
-
-My diverse international research and industry experiences have cultivated my leadership abilities, teamwork skills, critical thinking, self-directed learning capacity, and innovative mindset. I bring a unique blend of theoretical knowledge and practical application to the field of Machine Learning.
+Prior to RPI, my academic journey at Tsinghua University centered on complex industrial system health management and time series synthetic data generation. On the industry side, I completed an internship at [Didi Chuxing](https://web.didiglobal.com/), where I bridged research and product development to deliver customer-centric solutions. I also serve as a full-time researcher at [Deeli AI](https://deeli.ai/), where I lead the development of knowledge graph systems, combining them with AI agents to enhance the explainability and transparency of AI, and leveraging KGs as structured knowledge sources for LLMs.
 
 <!--
 
